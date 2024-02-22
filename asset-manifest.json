@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newcar/static/css/main.21113d62.css",
+    "main.js": "/newcar/static/js/main.572244b1.js",
+    "static/js/787.917857b7.chunk.js": "/newcar/static/js/787.917857b7.chunk.js",
+    "index.html": "/newcar/index.html",
+    "main.21113d62.css.map": "/newcar/static/css/main.21113d62.css.map",
+    "main.572244b1.js.map": "/newcar/static/js/main.572244b1.js.map",
+    "787.917857b7.chunk.js.map": "/newcar/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21113d62.css",
+    "static/js/main.572244b1.js"
+  ]
+}
